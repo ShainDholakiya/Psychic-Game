@@ -10,8 +10,6 @@ var guessesSoFar = 0;
 
 var guessedLetters = [];
 
-alert("Click any letter to guess which letter the computer is thinking of");
-
 document.onkeyup = function (event) {
     
     var userGuess = event.key;

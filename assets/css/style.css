@@ -16,6 +16,27 @@ h2 {
     margin: 20px;
     font-size: 25px;
 }
+.instructions {
+    width: 600px;
+    height: 275px;
+    border: dashed 5px black;
+    background-color: lightslategray;
+    position: fixed;
+    right: 50px;
+    bottom: 200px;
+}
+h3 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
 footer {
     background-color: black;
     color: grey;
