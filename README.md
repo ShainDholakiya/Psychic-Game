@@ -1,4 +1,7 @@
 # Psychic-Game
+
+https://shaindholakiya.github.io/Psychic-Game/
+
 # JavaScript Assignment
 
 ### Overview
